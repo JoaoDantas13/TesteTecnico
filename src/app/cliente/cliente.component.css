@@ -1,0 +1,48 @@
+div {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+input{
+  padding: 5px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid rgb(146, 145, 145);
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+}
+
+.container{
+  width: 25%;
+  box-shadow: 0 0 1rem rgb(107, 107, 107);
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+button{
+  cursor: pointer;
+  background-color: #29dd56;
+  border: none;
+  height: 40px;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+button:hover{
+  transition: 1s;
+  opacity: 0.7;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+

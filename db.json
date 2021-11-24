@@ -1,0 +1,99 @@
+{
+  "cliente": [
+    {
+      "nome": "Joao",
+      "cpf": 45299491840,
+      "cep": 5872130,
+      "lougradouro": 2,
+      "numero": 2,
+      "bairro": "jardim sao bento",
+      "complemento": "casa 3",
+      "cidade": "sao paulo",
+      "email": "dantasjoaovitor861@gmail.com",
+      "datanascimento": "2000-10-12",
+      "id": 1
+    },
+    {
+      "nome": "Joao",
+      "cpf": 45299491840,
+      "cep": 5872130,
+      "lougradouro": 2,
+      "numero": 2,
+      "bairro": "jardim sao bento",
+      "complemento": "casa 3",
+      "cidade": "sao paulo",
+      "email": "dantasjoaovitor861@gmail.com",
+      "datanascimento": "2000-10-12",
+      "id": 2
+    },
+    {
+      "nome": "Joao",
+      "cpf": 45299491840,
+      "cep": 5872130,
+      "lougradouro": 2,
+      "numero": 2,
+      "bairro": "jardim sao bento",
+      "complemento": "casa 3",
+      "cidade": "sao paulo",
+      "email": "dantasjoaovitor861@gmail.com",
+      "datanascimento": "2000-10-12",
+      "id": 3
+    },
+    {
+      "nome": "Leticia Silva",
+      "cpf": 45078965401,
+      "cep": 5872130,
+      "lougradouro": 2,
+      "numero": 2,
+      "bairro": "Santo Amaro",
+      "complemento": "casa 3",
+      "cidade": "sao paulo",
+      "email": "leh65517514@gmail.com",
+      "datanascimento": "2000-05-11",
+      "id": 4
+    },
+    {
+      "nome": "Leticia Silva",
+      "cpf": 45078965401,
+      "cep": 5872130,
+      "lougradouro": 2,
+      "numero": 2,
+      "bairro": "Santo Amaro",
+      "complemento": "casa 3",
+      "cidade": "sao paulo",
+      "email": "leh65517514@gmail.com",
+      "datanascimento": "2000-05-11",
+      "id": 5
+    },
+    {
+      "nome": "Leonardo",
+      "cpf": 45069878401,
+      "cep": 5872130,
+      "lougradouro": 2,
+      "numero": 2,
+      "bairro": "Santo Amaro",
+      "complemento": "casa 2",
+      "cidade": "sao paulo",
+      "email": "leo@gmail.com",
+      "datanascimento": "1996-04-28",
+      "id": 6
+    }
+  ],
+  "produto": [
+    {
+      "id": 1,
+      "nome": "Lapis",
+      "valorunitario": "10"
+    },
+    {
+      "nome": "lapis",
+      "valorunitario": 7,
+      "id": 2
+    },
+    {
+      "nome": "Carro",
+      "valorunitario": 15000,
+      "id": 3
+    }
+  ]
+}
